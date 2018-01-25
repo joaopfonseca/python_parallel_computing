@@ -47,11 +47,3 @@ Now you can open your browser, and copy/paste the URL shown from your training i
 
 
 You are now ready to code 😃
-
-
-
-
-
-
-
-lsof -ti:5901 | xargs kill -9
