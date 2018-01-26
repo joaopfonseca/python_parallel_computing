@@ -25,14 +25,15 @@ cd python_parallel_computing
 
 create directory as something you like
 
-```mkdir qhan
-cd qhan```
+mkdir qhan
+
+cd qhan
 
 Download the github repo as
 
-```git clone https://github.com/francishan/python_parallel_computing.git```
+git clone https://github.com/francishan/python_parallel_computing.git
 
-```cd python_parallel_computing```
+cd python_parallel_computing
 
 Now lets write some code 😃
 
