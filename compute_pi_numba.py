@@ -19,5 +19,5 @@ def Pi(num_steps):
 
 if __name__ == '__main__':
     Pi_numba = jit(Pi)
-    Pi(100000000)
-    Pi_numba(100000000)
+    #Pi(100000000000)
+    Pi_numba(100000000000)

@@ -22,5 +22,5 @@ if rank == 4:
 
 if rank == 8:
     data1 = comm.recv(source=1)
-    print("data1 received is = %s" % data1)
+    print("data received is = %s" % data1)
 
