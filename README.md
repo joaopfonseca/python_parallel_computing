@@ -1,4 +1,4 @@
-# Computatational Economics with Python - Parallel Computing
+# Computational Economics with Python - Parallel Computing
 
 SSH into the Amazon CloudFormation Cluster Server instance (public IP: 35.177.227.48) 
 
